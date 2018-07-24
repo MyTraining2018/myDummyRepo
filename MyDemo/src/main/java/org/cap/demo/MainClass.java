@@ -10,6 +10,8 @@ public class MainClass {
 	
 	public static void show() {
 		System.out.println("my Show Method");
+		
+		System.out.println("Hello World!");
 	}
 
 }
